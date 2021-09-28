@@ -8,8 +8,14 @@ double b=1.23l;
   {
     return a+b;
   }
+  public int sub()
+  {
+    return 1;
+  }
   public static main(String[] args)
   {
     A a1=new A();
+
   }
+
 }
